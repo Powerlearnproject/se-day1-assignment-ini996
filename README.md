@@ -49,6 +49,7 @@ PROJECT MANAGER
 3. Delivers conplete software to the customer and test its performnce periodically.
 
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
+
 IDE
 IDE is software environment that allows developer to write, compile and debug their codes. Since diffrent programming languages has its syntax, IDE are built with intelligent features for automatically writing and editing it e.g Visual studio code
 
